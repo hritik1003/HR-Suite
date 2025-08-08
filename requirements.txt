@@ -1,0 +1,11 @@
+streamlit
+google-generativeai
+pdfplumber
+python-dotenv
+pandas
+plotly
+Pillow
+pytesseract
+matplotlib
+streamlit-option-menu
+openpyxl
