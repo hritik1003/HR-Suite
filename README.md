@@ -1,6 +1,3 @@
-Of course\! Here is the information converted into a well-structured GitHub README format.
-
------
 
 # AI HR Suite
 
