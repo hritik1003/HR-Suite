@@ -12,7 +12,7 @@ This project leverages Large Language Models (LLMs) to automate and enhance key 
 
 ## 🚀 Live Demo & Links
 
-[**Live Application**](https://hrsuite.streamlit.app/)   |   [**Video Demo**](https://drive.google.com/file/d/1V9pYORtuQqw4pDeBiA-sNF_DWTcI1m1c/view)   |   [**Presentation**](https://docs.google.com/presentation/d/1ySYjLfQB4ya1bNl4LrsXqVAcC4LMd9XrfgdMrL4kuKk/edit)   |   [**Screenshots**](https://www.google.com/search?q=https://drive.google.com/drive/folders/1wQ7p-d2o0m9XJv_yJ4R_k5yB3zF9l9pE%3Fusp%3Dsharing)
+[**Live Application**](https://hrsuite.streamlit.app/)   |   [**Video Demo**](https://drive.google.com/file/d/1V9pYORtuQqw4pDeBiA-sNF_DWTcI1m1c/view)   |   [**Presentation**](https://docs.google.com/presentation/d/1ySYjLfQB4ya1bNl4LrsXqVAcC4LMd9XrfgdMrL4kuKk/edit)   |   [**Screenshots**](https://drive.google.com/drive/folders/1bNquE9jhXgzU8jgEFdvbUs7WO5W4Ggf6?usp=sharing)
 
 -----
 
